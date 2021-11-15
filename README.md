@@ -1,4 +1,4 @@
-# md5ups
+# md5ups 若依密码爆破
 爆破md5(用户名+密码+salt)的脚本
 最近一直遇见若依cms后台总能获取所有账号密码手机号salt等字段。
 ![image](https://user-images.githubusercontent.com/46959313/141808155-4c8da579-6b0f-4d6a-b5db-ead5708521a3.png)
